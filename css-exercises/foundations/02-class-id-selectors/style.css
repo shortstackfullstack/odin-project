@@ -1,0 +1,18 @@
+p.odd {
+    background-color:rgb(252, 130, 160);
+    font-family:Verdana,"DejaVu Sans",sans-serif;
+}
+
+p.large{
+    font-size:24px;
+}
+
+div.blue-txt {
+    color:rgb(37, 58, 172);
+    font-size:36px;
+}
+
+div#green {
+    background-color: rgb(158, 221, 156);
+    font-weight:bold;
+}
